@@ -1,8 +1,11 @@
 🚀 AWS Cost Optimizer & Predictor 🔥
+
 📌 Project Overview
+
 Tired of unexpected AWS bills? This project automates AWS cost tracking, visualizes spending trends,
  and helps you optimize costs using AWS services like Lambda, CloudWatch, S3, and 
 IAM – all while staying within the AWS Free Tier! 🎯
+
 
 🛠️ How It Works
 1️⃣ AWS Lambda automatically fetches daily cost reports using Cost Explorer API.
