@@ -1,0 +1,17 @@
+{
+    "ResultsByTime": [
+      {
+        "TimePeriod": { "Start": "2025-03-01", "End": "2025-03-02" },
+        "Total": { "BlendedCost": { "Amount": "0.50", "Unit": "USD" } }
+      },
+      {
+        "TimePeriod": { "Start": "2025-03-02", "End": "2025-03-03" },
+        "Total": { "BlendedCost": { "Amount": "0.75", "Unit": "USD" } }
+      },
+      {
+        "TimePeriod": { "Start": "2025-03-03", "End": "2025-03-04" },
+        "Total": { "BlendedCost": { "Amount": "1.00", "Unit": "USD" } }
+      }
+    ]
+  }
+  
